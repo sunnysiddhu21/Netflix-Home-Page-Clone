@@ -16,7 +16,7 @@ Welcome to the Netflix Homepage Clone project! This project is a simple HTML, CS
 
 ## Demo
 
-Include a link to a live demo of your Netflix homepage clone or add screenshots to showcase the project.
+https://sunnysiddhu21.github.io/Netflix-Home-Page-Clone/
 
 ## Features
 
