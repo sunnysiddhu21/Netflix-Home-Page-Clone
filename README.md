@@ -59,7 +59,7 @@ To run the project locally, follow these steps:
 If you would like to contribute to the project, please follow the steps below:
 
 1. Fork the repository.
-2. Create a new branch for your feature: git checkout -b feature-name
-3. Make your changes and commit them: git commit -m 'Add new feature'
-4. Push to the branch: git push origin feature-name
+2. Create a new branch for your feature:  ```bash git checkout -b feature-name
+3. Make your changes and commit them: ```bash git commit -m 'Add new feature
+4. Push to the branch: ```bash git push origin feature-name
 5. Submit a pull request.
