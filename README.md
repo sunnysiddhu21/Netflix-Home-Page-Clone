@@ -2,7 +2,7 @@
 
 Welcome to the Netflix Homepage Clone project! This project is a simple HTML, CSS, and JavaScript implementation of the Netflix homepage.
 
-![Netflix Clone Screenshot](link_to_screenshot)
+![Netflix Clone Screenshot](Screenshot/Screenshot (437).png)
 
 ## Table of Contents
 
